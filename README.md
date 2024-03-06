@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-  - [osTicket: Post-Installation Configuration](https://github.com/alhajikamara/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/alhajikamara/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alhajikamara/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/alhajikamara/configure-ad)
