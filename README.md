@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/linkedin.com/in/alhaji-kamara-7693092b4">IT Professional</a>☺</h1>
+<h1>Hi, I'm Alhaji, an <a href="https://linkedin.com/in/linkedin.com/in/alhaji-kamara-7693092b4">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
